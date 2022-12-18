@@ -81,9 +81,6 @@ nav:
   瞬间:
     link: /gallery/
     icon: gallery
-  关于:
-    link: /about/
-    icon: person
   友链:
     link: /links/
     icon: people
