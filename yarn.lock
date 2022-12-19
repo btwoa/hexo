@@ -742,13 +742,12 @@
     "hexo-util" "^2.1.0"
     "nunjucks" "^3.0.0"
 
-"hexo-generator-index@^2.0.0":
-  "integrity" "sha512-q/29Vj9BZs0dwBcF+s9IT8ymS4aYZsDwBEYDnh96C8tsX+KPY5v6TzCdttz58BchifaJpP/l9mi6u9rZuYqA0g=="
-  "resolved" "https://registry.npmjs.org/hexo-generator-index/-/hexo-generator-index-2.0.0.tgz"
-  "version" "2.0.0"
+"hexo-generator-index-custom@^1.0.1":
+  "integrity" "sha512-qv/lP31kxX3Za5sNYBFDhosAo5Zq2HSavgRusUZhO+/Afx2Uxan+n0a4x9vqf0XCM/m+CygXiI6AsBDdsQpn0Q=="
+  "resolved" "https://registry.npmjs.org/hexo-generator-index-custom/-/hexo-generator-index-custom-1.0.1.tgz"
+  "version" "1.0.1"
   dependencies:
-    "hexo-pagination" "1.0.0"
-    "timsort" "^0.3.0"
+    "hexo-pagination" "2.0.0"
 
 "hexo-generator-json-content@^4.2.3":
   "integrity" "sha512-XGqCaTUr6+X8Ty/YvRi+0eh0DJgHcp+lgBhn+Sgyh6ev40P0cwamwJyaZroTdHt8GPoBwbSGVu0H/CdzEf0lFA=="
@@ -825,10 +824,10 @@
   dependencies:
     "picocolors" "^1.0.0"
 
-"hexo-pagination@1.0.0":
-  "integrity" "sha512-miEVFgxchPr2qNWxw0JWpJ9R/Yaf7HjHBZVjvCCcqfbsLyYtCvIfJDxcEwz1sDOC/fLzYPqNnhUI73uNxBHRSA=="
-  "resolved" "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-1.0.0.tgz"
-  "version" "1.0.0"
+"hexo-pagination@2.0.0":
+  "integrity" "sha512-ZZQli5UwFWTW6bJNF4zwp2PCeGsipgoPxadud8+cPPxvygTP5GjTS5eVWcUTcfEaCluP+O1maxZCCWmYQoJkiQ=="
+  "resolved" "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-2.0.0.tgz"
+  "version" "2.0.0"
 
 "hexo-pagination@3.0.0":
   "integrity" "sha512-8oo1iozloZo7TojPVYg4IxL3SJKCBdSJ908fTlIxIK7TWJIKdYnQlW31+12DBJ0NhVZA/lZisPObGF08wT8fKw=="
@@ -1632,11 +1631,6 @@
   "integrity" "sha512-Cc+OraorugtXNfs50hU9KS369rFXCfgGLpfCfvlc+Ud5u6VWmUQsOAa9HbTvheQdYnrdJqqv1e5oIqXppMYnSw=="
   "resolved" "https://registry.npmjs.org/tildify/-/tildify-2.0.0.tgz"
   "version" "2.0.0"
-
-"timsort@^0.3.0":
-  "integrity" "sha512-qsdtZH+vMoCARQtyod4imc2nIJwg9Cc7lPRrw9CzF8ZKR0khdr8+2nX80PBhET3tcyTtJDxAffGh2rXH4tyU8A=="
-  "resolved" "https://registry.npmjs.org/timsort/-/timsort-0.3.0.tgz"
-  "version" "0.3.0"
 
 "titlecase@^1.1.3":
   "integrity" "sha512-pQX4oiemzjBEELPqgK4WE+q0yhAqjp/yzusGtlSJsOuiDys0RQxggepYmo0BuegIDppYS3b3cpdegRwkpyN3hw=="
