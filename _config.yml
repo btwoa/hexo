@@ -33,6 +33,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
   - random/index.html
+  - manifest.json
   - sticker.json
   - friends.json
   - robots.txt
